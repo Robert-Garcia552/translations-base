@@ -1,0 +1,6 @@
+en:
+  v2:
+    test:
+      index:
+        heading: "Sample Heading"
+        body: "Sample body"
