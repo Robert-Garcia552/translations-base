@@ -1,6 +1,0 @@
-es_US:
-  v2:
-    test:
-      index:
-        heading: "Hola!"
-        body: "Aqui tienes palabras"
